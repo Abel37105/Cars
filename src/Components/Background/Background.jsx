@@ -1,8 +1,8 @@
 import './Background.css'
-import video1 from '../../Assets/video1.mp4'
-import car1 from '../../Assets/car1.jpg'
-import dream_car from '../../Assets/dream_car.jpg'
-import car2 from '../../Assets/car2.jpeg'
+import video1 from '../../assets/video1.mp4'
+import car1 from '../../assets/car1.jpg'
+import dream_car from '../../assets/dream_car.jpg'
+import car2 from '../../assets/car2.jpeg'
 
 const Background = ({playStatus,heroCount}) => {
     console.log("playStatus:", playStatus);
